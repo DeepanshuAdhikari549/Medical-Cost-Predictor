@@ -1,0 +1,8 @@
+venv/
+venv_new/
+venv_ultimate/
+venv_last/
+venv_clean/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
